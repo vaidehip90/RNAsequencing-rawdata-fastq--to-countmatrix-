@@ -4,4 +4,4 @@ RNAsequencing is a technique that uses Next generation sequencing for presence o
 
 RNAseq produces the raw fastq file with reads that needs to be processed by Quality control, mapping to reference genome and then coverting to BAM to count matrix for downstream analysis such as Differential expression.
 
-In this project, I used two dataset including SRR5924196 and SRR5924198. This dataset can be downloaded from SRA. The Yeast reference genome are downloaded from ESEMbL such as fasta and gtf files.
+In this project, I used two dataset including SRR5924196 and SRR5924198. This dataset can be downloaded from SRA. The Yeast reference genome are downloaded from ENSEMBL such as fasta and gtf files.
